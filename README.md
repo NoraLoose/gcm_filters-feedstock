@@ -3,9 +3,9 @@ About gcm_filters
 
 Home: https://github.com/ocean-eddy-cpt/gcm-filters
 
-Package license: BSD-3-Clause
+Package license: LGPL-3.0
 
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/gcm_filters-feedstock/blob/master/LICENSE.txt)
+Feedstock license: [LGPL-3.0](https://github.com/conda-forge/gcm_filters-feedstock/blob/master/LICENSE.txt)
 
 Summary: Diffusion-based Spatial Filtering of Gridded Data from General Circulation Models
 
